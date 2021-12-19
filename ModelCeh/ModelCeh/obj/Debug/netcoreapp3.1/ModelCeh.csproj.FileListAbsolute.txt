@@ -1,0 +1,13 @@
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.exe
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.deps.json
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.runtimeconfig.json
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.dll
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\bin\Debug\netcoreapp3.1\ModelCeh.pdb
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.dll
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.pdb
+C:\Users\Александр\Desktop\Дистант\системы ИИ\labaCeh\ModelCeh\ModelCeh\obj\Debug\netcoreapp3.1\ModelCeh.genruntimeconfig.cache
