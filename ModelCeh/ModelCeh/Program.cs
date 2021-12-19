@@ -51,7 +51,6 @@ namespace ModelCeh
                 }
             }
             
-            
             while (chug > 0)
             {
                 foreach (var kon in plavka)
@@ -111,10 +110,10 @@ namespace ModelCeh
 
     public class PlavkaKon
     {
-        public int countChug;
-        public int timeWork;
-        private Timer aTimer;
-        public bool isReady;
+        public int countChug; // количество чугуна
+        public int timeWork; // время работы плавления
+        private Timer aTimer; // таймер
+        public bool isReady; // готовность к принятию новой партиии
 
         public PlavkaKon(int timeWork, int countChug)
         {
@@ -145,9 +144,9 @@ namespace ModelCeh
 
     public class UNRS
     {
-        public int timeWork;
-        private Timer aTimer;
-        public bool isReady;
+        public int timeWork; // время работы
+        private Timer aTimer; // таймер
+        public bool isReady; // готовность принять новую партию
 
         public UNRS(int timeWork)
         {
